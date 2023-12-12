@@ -1,0 +1,36 @@
+body {
+  text-align: center; /*alinhar texto no centro*/
+  border-radius: 4px; /*arredondar borda*/
+  font-family: Arial;/*fonte do texto */
+  margin: 60px; /*margem dos lados do quadrado */
+}
+
+span {
+  color: #febe01; /*cor do texto selecionado*/
+}
+
+button {
+  color: #332200;/*cor do texto do botão*/
+  background-color: #febe01; /*cor de fundo do botão*/
+  border-radius: 6px; /*arredondar borda*/
+  padding: 15px; /*tamanho do botão */
+  display: inline-block; /*pro botão se adaptar no layout */
+}
+
+
+.item{ /*classe*/
+  background-color:#111 ; /*cor do fundo*/
+  color: #fff; /*cor da letra*/
+  padding: 10px; /*espaçamento*/
+  margin: 15px; /*pra separar os quadrados (margem)*/
+  border-radius: 6px; /*arredondar borda*/
+  text-align: left; /*alinhar texto na esquerda */
+} 
+
+
+p{
+  color: #b2b2b2; /*cor do texto do parágrafo*/
+}
+
+
+/*.item { só usa ponto . quando é uma classe/*}
